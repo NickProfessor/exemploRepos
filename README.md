@@ -4,8 +4,4 @@
 
 # Mensagem de teste
 
-<<<<<<< HEAD
-
-# Aqui é o lugar de briga
-
-=======
+erro
